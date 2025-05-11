@@ -1,4 +1,4 @@
-# AppleStore_AdvanceSQL_Project
+# Apple Retail Store_AdvanceSQL_Project
 ![unity-lights-wallpaper-iphone-ipad-mac](https://github.com/user-attachments/assets/4d911c9e-2b4c-4a29-997a-0b5f710ce9aa)
 
 
