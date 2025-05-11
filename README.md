@@ -1,5 +1,5 @@
 # AppleStore_AdvanceSQL_Project
-(![unity-lights-wallpaper-iphone-ipad-mac](https://github.com/user-attachments/assets/4d911c9e-2b4c-4a29-997a-0b5f710ce9aa)
+![unity-lights-wallpaper-iphone-ipad-mac](https://github.com/user-attachments/assets/4d911c9e-2b4c-4a29-997a-0b5f710ce9aa)
 
 
 Advanced SQL Analysis of Apple Retail Sales Data This project demonstrates advanced SQL querying techniques on a dataset of over 1 million rows from Apple retail sales. It showcases a wide range of analytical skills, including optimizing query performance, solving real-world business problems, and extracting actionable insights from large datasets. Table of Contents
